@@ -20,7 +20,10 @@ footer {
 div.MainTxt {
     background: saddlebrown;
     padding:10px;
-
+    float: right;
+    height: 100%;
+    line-height: 80px;
+    font-size: 80px;
 }
 
 nav.Navigation1 {
@@ -28,7 +31,7 @@ nav.Navigation1 {
     background: silver;
     margin:0 auto;
     margin-top:20px;
-    padding: 10px;
+    padding: 15px;
 }
 
 img.floatImage {
@@ -37,17 +40,19 @@ img.floatImage {
     width:100px;
     height:100px;
     max-width: 960px;
-
+    height: 80%;
 }
 div.wrapper {
     max-width:  960px;
     margin: 0 auto 0 auto;
+    height: 100%;
 }
 main {
     max-width: 960px;
-    margin: 0 auto;
+    margin: 20px auto;
     width:100%;
     background: silver;
+    padding: 15px;
 }
 tr.odd {
     background: skyblue;
