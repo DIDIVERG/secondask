@@ -16,7 +16,9 @@ footer {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
+a:hover {
+color:green;
+}
 div.MainTxt {
     background: saddlebrown;
     padding:10px;
